@@ -1,4 +1,4 @@
-Source Code (References)
+References
 
 Main website - http://zetcode.com/
 JavaFX Tutorial - http://zetcode.com/gui/javafx/
